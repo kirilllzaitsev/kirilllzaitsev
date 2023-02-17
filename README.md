@@ -9,7 +9,7 @@ and I like building different data-based things.
 ---
 
 Check out these websites to discover more of my professional activities:
-- :link: LinkedIn [in/sebastianraschka](https://www.linkedin.com/in/kirill-zaitsev-/)
+- :link: [LinkedIn](https://www.linkedin.com/in/kirill-zaitsev-/)
 - :link: [Personal blog](https://kirilllzaitsev.github.io/)!
 
 <!--
