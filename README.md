@@ -1,6 +1,6 @@
 ### Hello, I'm Kirill 👋
 
-and I build solutions for some machine learning and big data problems.
+and I like building different data-based things.
 
 - :wrench: I occupied engineering roles that involved handling terabytes of analytical data, designing machine learning (ML) pipelines from scratch to MVP, real-time processing of edge-device data, massively distributed deep learning, and more.
 - :bookmark: I happen to be a certified professional solutions architect, ML & data engineer. They also claim I am capable of some Kubernetes magic 😄
