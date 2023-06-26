@@ -1,10 +1,10 @@
 ### Hi! I'm Kirill 👋
 
-I build software that aims at transforming data into some value. Machine learning and big data are nice (and fancy! :poodle:) means of solving nowaday problems, so I try to stay on track with these two.
+I work with software that extracts value from different types of data that comes from visual, language, or tabular sources. I believe that machine learning and big data will be the #1 means of problem-solving in our times, so I'm trying to keep up with advances in these two.
 
-- :wrench: I occupied engineering roles that involved handling terabytes of analytical data, designing machine learning (ML) pipelines from scratch to MVP :seedling:, real-time :runner: processing of edge-device data, massively distributed deep learning, and :cookie: more.
-- :bookmark: Mostly by luck, I passed some exams on solutions architecture, ML & data engineering. I also seem to know some spells :joy: against Kubernetes clusters :sweat_smile:.
-- :bulb: I aim at engaging more with open-source communities, as they look like the place where new cool technology is being built.
+- :wrench: I occupied engineering roles that involved handling terabytes of analytical data, machine learning (ML) pipeline design from scratch to MVP :seedling:, real-time :runner: processing of edge-device data, massively distributed deep learning, and :cookie: more.
+- :bookmark: My certificates claim that I understand some things in solutions architecture, ML & data engineering, Tensorflow development. Looks like I also know some spells :joy: against Kubernetes clusters :sweat_smile:.
+- :bulb: I aim at engaging more with open-source communities, as they look like the place where the next technology frontier is being forged.
 
 ---
 
