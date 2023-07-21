@@ -1,10 +1,10 @@
-### Hi! I'm Kirill 👋
+### Hello 👋 and welcome!
 
-I work with software that extracts value from different types of data that comes from visual, language, or tabular sources. I believe that machine learning and big data will be the #1 means of problem-solving in our times, so I'm trying to keep up with advances in these two.
+Few words about me. I develop software that extracts value from data originating in visual, language, or tabular sources. Machine learning and big data will be the #1 means of problem-solving in our times, so I'm trying to keep up with advances in these two.
 
-- :wrench: I occupied engineering roles that involved handling terabytes of analytical data, machine learning (ML) pipeline design from scratch to MVP :seedling:, real-time :runner: processing of edge-device data, massively distributed deep learning, and :cookie: more.
-- :bookmark: Some time ago I passed five certifications: solutions architecture (AWS), ML & data engineering (Google Cloud), Tensorflow development, and Kubernetes development.
-- :bulb: I aim at engaging more with open-source communities, as they look like the place where the next technology frontier is being forged.
+- :wrench: I was a software engineer in projects that involved handling terabytes of transactional data, machine learning (ML) pipeline design from scratch to MVP :seedling:, real-time :runner: processing of videos from edge devices, massively distributed deep learning, and :cookie: more.
+- :bookmark: Also I have five certifications under my belt: solutions architecture (AWS), ML & data engineering (Google Cloud), Tensorflow development, and Kubernetes development.
+- :bulb: I aim to engage more with open-source, and I believe that this is the place where the next technology frontier is being forged.
 
 ---
 
