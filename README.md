@@ -9,5 +9,6 @@ Few words about me. I develop software that extracts value from data originating
 ---
 
 A bit more details about me are on these websites:
-- :link: [LinkedIn](https://www.linkedin.com/in/kirill-zaitsev-/)
+- :link: [LinkedIn](https://www.linkedin.com/in/kirill-zaitsev-/)https://medium.com/me/stories/public
+- :link: [Medium](https://medium.com/me/stories/public)
 - :link: [Personal blog](https://kirilllzaitsev.github.io/)
