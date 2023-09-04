@@ -1,6 +1,8 @@
 ### Hello 👋 and welcome!
 
-I am a software engineer working primarily with computer vision. Currently, I'm focusing on depth estimation. I have some experience with NLP and RL, the cloud (AWS, GCP), and solutions architecture.
+I am a software engineer working primarily with computer vision. Currently, I'm interested in depth estimation.
+
+I have some experience with NLP and RL, the cloud (AWS, GCP), and solutions architecture.
 
 ---
 
